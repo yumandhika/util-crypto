@@ -3,7 +3,7 @@
   "bugs": "https://github.com/polkadot-js/common/issues",
   "description": "A collection of useful crypto utilities for @polkadot",
   "scripts" : {
-    "build": "polkadot-dev-build-ts",
+    "build": "tsc",
     "prepare": "npm run build"
   },
   "engines": {
